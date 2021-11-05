@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FactoryWW</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="label_city_name">Please enter city name:</string>
+    <string name="hint_city_name">city name</string>
+    <string name="lb_weather_min">min temp</string>
+    <string name="lb_weather_max">max temp:</string>
+    <string name="lb_current">Current weather:</string>
+    <string name="lb_weather_temp">temperature</string>
+    <string name="lb_click">Click on the button to display the weather for city</string>
+    <string name="error">Error</string>
+    <string name="error_loading">Error fetching data from server</string>
+    <string name="app_name_factory">Factory</string>
+    <string name="app_name_world">World</string>
+    <string name="app_name_wide">Wide</string>
+</resources>
